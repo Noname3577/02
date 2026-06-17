@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6wa9fs0QfN0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\io357\\Downloads\\gamer\\1\\TextDumper\\TextDumper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\io357\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\io357\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\io357\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

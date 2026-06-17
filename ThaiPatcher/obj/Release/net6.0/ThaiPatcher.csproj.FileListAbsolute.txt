@@ -1,0 +1,12 @@
+C:\Users\io357\Downloads\gamer\1\ThaiPatcher\bin\Release\net6.0\ThaiPatcher.deps.json
+C:\Users\io357\Downloads\gamer\1\ThaiPatcher\bin\Release\net6.0\ThaiPatcher.dll
+C:\Users\io357\Downloads\gamer\1\ThaiPatcher\bin\Release\net6.0\ThaiPatcher.pdb
+C:\Users\io357\Downloads\gamer\1\ThaiPatcher\obj\Release\net6.0\ThaiPatcher.csproj.AssemblyReference.cache
+C:\Users\io357\Downloads\gamer\1\ThaiPatcher\obj\Release\net6.0\ThaiPatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\io357\Downloads\gamer\1\ThaiPatcher\obj\Release\net6.0\ThaiPatcher.AssemblyInfoInputs.cache
+C:\Users\io357\Downloads\gamer\1\ThaiPatcher\obj\Release\net6.0\ThaiPatcher.AssemblyInfo.cs
+C:\Users\io357\Downloads\gamer\1\ThaiPatcher\obj\Release\net6.0\ThaiPatcher.csproj.CoreCompileInputs.cache
+C:\Users\io357\Downloads\gamer\1\ThaiPatcher\obj\Release\net6.0\ThaiPatcher.dll
+C:\Users\io357\Downloads\gamer\1\ThaiPatcher\obj\Release\net6.0\refint\ThaiPatcher.dll
+C:\Users\io357\Downloads\gamer\1\ThaiPatcher\obj\Release\net6.0\ThaiPatcher.pdb
+C:\Users\io357\Downloads\gamer\1\ThaiPatcher\obj\Release\net6.0\ref\ThaiPatcher.dll
