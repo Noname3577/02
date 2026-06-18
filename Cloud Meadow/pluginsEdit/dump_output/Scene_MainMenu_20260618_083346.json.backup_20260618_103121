@@ -1,0 +1,14 @@
+﻿{
+  "Text_0__GameManager/GameCanvasCamera/GameCanvas/PooledCanvasObjectManager/BannerMessage(Clone)/NPCRecruitedtRoot/TextBody": "|<--- Text spans from here to here to here to here to here to here to here --->|\nand an extra line here with some characters having\na little extra here",
+  "Text_1__GameManager/GameCanvasCamera/GameCanvas/PooledCanvasObjectManager/BannerMessage(Clone)/NPCRecruitedtRoot/TextHeader": "{NPC NAME} has been recruited!\n",
+  "Text_2__GameManager/GameCanvasCamera/GameCanvas/VersionNumber": "Beta 0.2.6.0b",
+  "Text_3__SceneCanvas/MainMenuManager/MainMenuButtons/Credits/Label": "Credits",
+  "Text_4__SceneCanvas/MainMenuManager/Title/VersionBar/VersionText": "Beta 0.2.6.0b",
+  "Text_5__SceneCanvas/MainMenuManager/MainMenuButtons/NewGame/Label": "New Game",
+  "Text_6__SceneCanvas/MainMenuManager/MainMenuButtons/ExitGame/Label": "Quit",
+  "Text_7__SceneCanvas/MainMenuManager/MainMenuButtons/Options/Label": "Options",
+  "Text_8__SceneCanvas/MainMenuManager/MainMenuButtons/Album/Label": "Album",
+  "Text_9__SceneCanvas/MainMenuManager/MainMenuButtons/Updates/Label": "Updates",
+  "Text_10__SceneCanvas/MainMenuManager/MainMenuButtons/LoadGame/Label": "Load Game",
+  "Text_11__SceneCanvas/MainMenuManager/MainMenuButtons/Roadmap/Label": "Roadmap"
+}

@@ -1,0 +1,14 @@
+{
+  "Text_0__GameManager/GameCanvasCamera/GameCanvas/PooledCanvasObjectManager/BannerMessage(Clone)/NPCRecruitedtRoot/TextBody": "|<--- ข้อความครอบคลุมจากที่นี่ถึงที่นี่ถึงที่นี่ถึงที่นี่ถึงที่นี่ --->|\nและบรรทัดเพิ่มเติมที่นี่พร้อมกับตัวละครบางตัว\nพิเศษเล็กน้อยที่นี่",
+  "Text_1__GameManager/GameCanvasCamera/GameCanvas/PooledCanvasObjectManager/BannerMessage(Clone)/NPCRecruitedtRoot/TextHeader": "{NPC NAME} ได้รับการรับสมัครแล้ว!",
+  "Text_2__GameManager/GameCanvasCamera/GameCanvas/VersionNumber": "เบต้า 0.2.6.0b ทำ mod โดย Error404",
+  "Text_3__SceneCanvas/MainMenuManager/MainMenuButtons/Credits/Label": "เครดิต",
+  "Text_4__SceneCanvas/MainMenuManager/Title/VersionBar/VersionText": "เบต้า 0.2.6.0b ทำ mod โดย Error404",
+  "Text_5__SceneCanvas/MainMenuManager/MainMenuButtons/NewGame/Label": "เกมใหม่",
+  "Text_6__SceneCanvas/MainMenuManager/MainMenuButtons/ExitGame/Label": "ล้มเลิก",
+  "Text_7__SceneCanvas/MainMenuManager/MainMenuButtons/Options/Label": "ตัวเลือก",
+  "Text_8__SceneCanvas/MainMenuManager/MainMenuButtons/Album/Label": "อัลบั้ม",
+  "Text_9__SceneCanvas/MainMenuManager/MainMenuButtons/Updates/Label": "อัพเดท",
+  "Text_10__SceneCanvas/MainMenuManager/MainMenuButtons/LoadGame/Label": "โหลดเกม",
+  "Text_11__SceneCanvas/MainMenuManager/MainMenuButtons/Roadmap/Label": "แผนการทำงาน"
+}
